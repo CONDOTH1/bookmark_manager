@@ -1,4 +1,4 @@
-# Bookmark Manager Readme
+# Bookmark Manager README
 
 ## User Stories and Domain Models
 ```
